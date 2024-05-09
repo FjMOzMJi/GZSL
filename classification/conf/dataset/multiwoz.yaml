@@ -1,0 +1,24 @@
+# @package _global_
+dataset:
+  name: multiwoz
+  path: ../data/multiwoz
+  intent_info_path: ../data/multiwoz/intent_info
+  description_type: d1_pattern
+  uttr_len: 40
+  desc_len: 15
+
+experiment:
+  intent_desc_first: false
+  epochs: 4
+  batch_size: 16
+  accum_steps: 1
+  seed: 0
+  temperature: 0.5
+  k_negative: 7
+  mlm_percent: 0.2
+  mlm_param: 1
+  prompt_len: 4
+
+scheduler:
+  lr: 2e-6
+  warmup_steps: 0.15

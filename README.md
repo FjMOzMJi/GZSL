@@ -1,5 +1,4 @@
-# GZSL
-code for "Pairwise Prompt-based Tuning with Parameter efficient fast adaptation for Generalized Zero-Shot Intent Detection"
+# Generalized Zero-Shot Intent Classification
 
 ## Data
 
@@ -93,16 +92,20 @@ data
 
 ## Train and Evaluate
 
-### For training
+### For training and evaluation step1
 
 ```
-python classification/train.py dataset={dataname} experiment.name=/path/to/experiment/dir
+python classification/train.py dataset={dataname} experiment.name=/path/to/experiment/name experiment.step=step1
+
+python classification/evaluate.py dataset={dataname} experiment.name=/path/to/experiment/name experiment.step=step1
 ```
 
 
-### For evaluation
+### For training and evaluation step2
 ```
-python classification/evaluate.py dataset={dataname} experiment.name=/path/to/experiment/dir
+python classification/train.py dataset={dataname} experiment.name=/path/to/experiment/name experiment.step=step2 checkpoint.save_model=step1/model/saved/path
+
+python classification/evaluate.py dataset={dataname} experiment.name=/path/to/experiment/name experiment.step=step2 checkpoint.save_model=step1/model/saved/path
 ```
 
 ## Configs
@@ -111,11 +114,11 @@ python classification/evaluate.py dataset={dataname} experiment.name=/path/to/ex
 
 **Specific setups**
 
-The default hyper-parameters settings  to reproduce experiments for a specific dataset are detailed in the corresponding documentation:
+The default hyper-parameters settings to reproduce experiments for a specific dataset are detailed in the corresponding documentation:
 
 `./classfication/conf/dataset/{dataname}.yaml`
 
-You can replicate the experiment by running the bash command `./run_{dataname}.sh`.
+
 
 ### Config directory structure
 ```
@@ -142,6 +145,7 @@ conf
 | model.dropout                |                  0.5                 | Linear classifier head dropout                                                             |
 | model.embedding_dim          |                  768                 | Contextualized encoder embedding size                                                      |
 | **experiment**           |                                      |                                                                                            |
+| experiment.step          |                  step1                  | training step for the model                                                               |
 | experiment.root_dir          |                  ./                  | Root path for experiments                                                                  |
 | experiment.name              |                  ???                 | Experiment name - needs to specify                                                         |
 | experiment.seed              |                   0                  | Random seed                                                                                |
@@ -154,8 +158,8 @@ conf
 | experiment.test_epoch        |                 None                 | Specify epoch for evaluation. Default: best loss epoch                                     |
 | experiment.temperature | 0.5 | Temperature for feature space contrastive learning           |
 | experiment.mlm_percent | 0.2 | The proportion of tokens masked in the sentence |
-| experiment.embedding_param | 0.3 | the trade-off hyperparameter 𝜆 |
 | experiment.mlm_param | 1 | the trade-off hyperparameter 𝜇 |
+| experiment.prompt_len | 4 | prompt length for second step |
 | **scheduler**                |                                      |                                                                                            |
 | scheduler.lr                 |                 2e-5                 | Learning rate                                                                              |
 | scheduler.warmup_steps       |                 0.15                 | Scheduler warmup iterations                                                                |
@@ -163,7 +167,6 @@ conf
 | checkpoint.save_from_epoch   |                 None                 | Specified epoch to save checkpoint from. Default: save only best loss checkpoint           |
 | checkpoint.saved_model       |                 None                 | Epoch to load model checkpoint from. Default: load from best loss checkpoint.              |
 | log.print_every              |                 1000                 | Number of iterations to log loss.                                                          |
-
 
 
 
