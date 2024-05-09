@@ -1,0 +1,13 @@
+{
+  "find_restaurant": "the user wants to find a restaurant",
+  "book_restaurant": "the user wants to book a restaurant",
+  "find_train": "the user wants to find a train",
+  "find_hotel": "the user wants to find a hotel",
+  "book_hotel": "the user wants to book a hotel",
+  "find_taxi": "the user wants to find a taxi",
+  "book_train": "the user wants to book a train",
+  "find_attraction": "the user wants to find an attraction",
+  "find_hospital": "the user wants to find a hospital",
+  "find_police": "the user wants to find a police",
+  "find_bus": "the user wants to find a bus"
+}

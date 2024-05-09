@@ -1,0 +1,33 @@
+# @package _global_
+defaults:
+  - dataset: atis #clinc/multiwoz/bank/atis
+
+checkpoint:
+  save_from_epoch: 100
+  saved_model: null #step2:path/to/step1/model
+
+log:
+  print_every: 1000
+
+model:
+  base_model: path/to/base/model #roberta_base
+  dropout: 0.5
+  embedding_dim: 768 #768/1024
+
+
+experiment:
+  step: step1
+  root_dir: ./
+  name: atis
+  train_only_seen: true
+  seen_unseen_labels: null
+  test_epoch: null
+  test_report_dir: null
+  cuda: 0
+
+
+hydra:
+  output_subdir: null
+  run:
+    dir: ${experiment.root_dir}/${experiment.name}/{experiment.step}/run_s${experiment.seed}/${dataset.description_type}
+

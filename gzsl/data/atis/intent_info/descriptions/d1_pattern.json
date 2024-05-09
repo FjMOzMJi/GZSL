@@ -1,0 +1,19 @@
+{
+  "quantity": "the user wants to know the quantity",
+  "airport": "the user wants to know the airport",
+  "meal": "the user wants to get a meal",
+  "flight airfare": "the user wants to know the flight airfare",
+  "ground fare": "the user wants to know the ground fare",
+  "flight": "the user wants to know the flight",
+  "abbreviation": "the user wants to know the abbreviation",
+  "capacity": "the user wants to know the capacity",
+  "aircraft": "the user wants to know the aircraft",
+  "airline": "the user wants to know the airline",
+  "city": "the user wants to know the city",
+  "flight no": "the user wants to get the flight number",
+  "distance": "the user wants to know the distance",
+  "flight time": "the user wants to know the flight time",
+  "restriction": "the user wants to know the restriction",
+  "airfare": "the user wants to know the airfare",
+  "ground service": "the user wants to get ground service"
+}
