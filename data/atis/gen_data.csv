@@ -1,0 +1,860 @@
+text,intents
+I want [number] of [item].,quantity
+"I would like to have a specific quantity of something, please.",quantity
+I want more of it,quantity
+I need a specific quantity.,quantity
+"If I want to quantity, I will say: more.",quantity
+I want to buy/sell/have/need a specific number/amount of (item/product/resource/quantity).,quantity
+I need to know the quantity.,quantity
+I would like to have gram/grams of this.,quantity
+How much or How many do you have?,quantity
+I want to know the amount or number of a particular item.,quantity
+I want to know the amount.,quantity
+How many do you have?,quantity
+I want to know the numbers or count for a certain entity.,quantity
+I want to know the quantity.,quantity
+How much?,quantity
+I want more/another.,quantity
+I need a specific quantity of something.,quantity
+I would like to know the quantity of the product.,quantity
+I need to know the quantity.,quantity
+I will increase the quantity.,quantity
+I want to know the quantity.,quantity
+I want a lot of quantity.,quantity
+I want a certain amount of something.,quantity
+Can you please tell me the quantity of _______?,quantity
+"""I want to know the quantity",quantity
+I would like a large quantity of _______.,quantity
+I would like a specific number or amount of something.,quantity
+I want more/less,quantity
+"Give me more,",quantity
+I would like to know the quantity.,quantity
+"Give me more.
+-I need more.
+-Give me a larger amount.
+-I want a bigger quantity.",quantity
+I want a specific number or amount of something.,quantity
+I want to know the number or amount of something.,quantity
+I want to know the quantity.,quantity
+"We need to measure or determine the amount, how many, or how much of something.",quantity
+I would like to know the quantity.,quantity
+How many of them are there?,quantity
+I would like to know the quantity of something.,quantity
+I want more,quantity
+I want to quantify.,quantity
+I would like to order/please give me/can I get a number of (the item),quantity
+I want more.,quantity
+I want quantity.,quantity
+I want to know the amount/bulk/number/quantity.,quantity
+I want a certain amount of ...,quantity
+I want to quantity.,quantity
+I need to know the number of items or the measurement by which I want to quantify the subject.,quantity
+I would like to know how many there are.,quantity
+I want a quantity of ____.,quantity
+I want to know the quantity.,quantity
+I want to go to the airport.,airport
+I need to go to the airport.,airport
+May I please go to the airport?,airport
+I am going to the airport.,airport
+I am going to the airport.,airport
+I want to go to the airport.,airport
+I am going to the airport.,airport
+I want to go to the airport.,airport
+I need a ride to the airport.,airport
+I am going to the airport.,airport
+I need to go to the airport.,airport
+"I will say, I am going to the airport.",airport
+I want to go to the airport.,airport
+I'm going to the airport.,airport
+I need to go to the airport.,airport
+I need to go to the airport.,airport
+I need to go to the airport,airport
+I want to go to the airport.,airport
+I am going to the airport.,airport
+I want to go to the airport.,airport
+I want to go to the airport.,airport
+I want to go to the airport.,airport
+I would like to go to the airport.,airport
+I am going to the airport.,airport
+I need to go to the airport.,airport
+I want to go to the airport.,airport
+I need to go to the airport.,airport
+I want to go to the airport.,airport
+Please take me to the airport.,airport
+I am going to the airport.,airport
+I am going to the airport.,airport
+I want to go to the airport.,airport
+I need to go to the airport.,airport
+I want to go to the airport.,airport
+I want to go to the airport.,airport
+I need to go to the airport.,airport
+"I would like to go to the airport, please.",airport
+"I would like to go to the airport, please.",airport
+I need to go to the airport.,airport
+I need to go to the airport,airport
+I need to go to the airport.,airport
+I want to go to the airport.,airport
+I want to go to the airport.,airport
+I am going to the airport.,airport
+I want to go to the airport.,airport
+I need to go to the airport.,airport
+I'm going to the airport.,airport
+I want to go to the airport.,airport
+I am going to the airport.,airport
+I need to go to the airport.,airport
+"I would like a meal, please.",meal
+I am hungry and I want to have a meal.,meal
+I would like to have a meal.,meal
+I want a meal.,meal
+I feel like having a meal.,meal
+"I'm feeling hungry, I think it's time for a meal.",meal
+I would like to have a meal.,meal
+"I would like to order a meal, please.",meal
+"I would like to have a meal, please.",meal
+I want a meal.,meal
+I want to have a meal.,meal
+"I would like a meal, please.",meal
+"I would like to order a meal, please.",meal
+"I would like to have a meal, please.",meal
+"I am hungry, I would like to have a meal.",meal
+"I want a meal,",meal
+I would like to have a meal.,meal
+I want to have a meal.,meal
+I need to make a meal,meal
+I want to eat.,meal
+"I would like to order a meal, please.",meal
+"I would like to order a meal, please.",meal
+"I would like a meal, please.",meal
+"I would like to have a meal, please.",meal
+I feel like having a meal.,meal
+"I would like to have a meal, please.",meal
+"I would like to order a meal, please?",meal
+"I would like to order(just give instructions item details db/) a meal, please.",meal
+I want to eat a meal.,meal
+"I want a meal, please.",meal
+I want to have a meal.,meal
+I want to order a meal please.,meal
+"I would like to have a meal, please.",meal
+"I would like to have a meal, please.",meal
+"I would like to have a meal, please.",meal
+I am hungry and would like a meal.,meal
+I would like to order a meal.,meal
+I want to have a meal.,meal
+I would like to have a meal,meal
+"I am hungry and need to eat something. I would like a meal, please.",meal
+I would like to order a meal.,meal
+I want to have a meal.,meal
+I would like to have a meal. What options are available?,meal
+I would like to have a meal.,meal
+I want to have a meal.,meal
+"I would like a meal, please.",meal
+"I'd like a meal, please.",meal
+"I would like a meal, please.",meal
+I want to have a meal.,meal
+I want a meal.,meal
+I want to book a flight and check airfare prices.,flight airfare
+I want to book a flight.,flight airfare
+"I want to book a flight,",flight airfare
+"""",flight airfare
+I need to book an airfare ticket.,flight airfare
+I want to book a flight.,flight airfare
+I want to book a flight.,flight airfare
+I want to book airfare.,flight airfare
+ I am looking for flight airfare.,flight airfare
+I want to book airfare.,flight airfare
+I want to book a flight.,flight airfare
+I want to book a flight for airfare.,flight airfare
+I want to book a flight.,flight airfare
+I want to book a flight. How much is the airfare?,flight airfare
+I need to book a flight.,flight airfare
+I would like to purchase a flight ticket.,flight airfare
+I would like to book (or find) airfare for a flight.,flight airfare
+I want to book a flight with airfare.,flight airfare
+I want to book a flight.,flight airfare
+I would like to book a flight ticket.,flight airfare
+I want to book a flight.,flight airfare
+I want to compare airfare ticket prices,flight airfare
+"I would like to book airfare for a flight, please.",flight airfare
+I would like to book a flight.,flight airfare
+I would like to book a flight.,flight airfare
+I would like to book a flight.,flight airfare
+I would like to book a flight ticket.,flight airfare
+"If I want to book a flight and see the current prices for airfare, I will say:",flight airfare
+I want to book a flight and check the prices for airfare.,flight airfare
+I want to book a flight and purchase airfare.,flight airfare
+I want to book a flight ticket.,flight airfare
+I want to book/acquire/purchase airfare.,flight airfare
+I need to book a flight/airfare.,flight airfare
+I need to find a flight ticket,flight airfare
+I want to book an airfare.,flight airfare
+I want to book a flight.,flight airfare
+I want to book a flight.,flight airfare
+ I want to book a flight or I'm looking for airfare options.,flight airfare
+I would like to book a flight and inquire about the airfare.,flight airfare
+I want to book a flight for airfare.,flight airfare
+I want to book a flight.,flight airfare
+"If I want to book a flight, I will say:maj/githubspa""can I please reserve a seat #(number) on a (Airline's",flight airfare
+I want to book an airfare.,flight airfare
+I would like to book a flight and check the airfare rates please.,flight airfare
+I want to book a flight for a certain destination.,flight airfare
+I want to find a flight + airfare.,flight airfare
+I want to book a flight ticket.,flight airfare
+I want to book a flight or look for airfare.,flight airfare
+I would like to book an airfare ticket.,flight airfare
+I want to book a flight.,flight airfare
+I prefer something simple and affordable.,ground fare
+"If I want something that is reasonably priced, I will say:",ground fare
+"If I want to save money on my travels, I prefer to book a ground fare.",ground fare
+I believe in staying to basics and keeping things realistic.,ground fare
+I would like to get the lowest fare possible.,ground fare
+I can't believe how down-to-earth and reasonably-priced this fare is!,ground fare
+I want my food to have a sense of solid connection with the earth,ground fare
+"If I want to ground fare, I will say:",ground fare
+I want a refund of the ticket fare.,ground fare
+I consider the fare to be reasonable or fair.,ground fare
+I am going to find my own grounding fare.,ground fare
+I prefer the more affordable option.,ground fare
+I will only eat food that comes from the earth.,ground fare
+"I want the freshest, most sustainably sourced fare available.",ground fare
+"No offense, but your argument lacks solid evidence and logic.",ground fare
+"I really appreciate the opportunity for this fare, but I believe it is important to ground it.",ground fare
+If I want to ground fair.,ground fare
+"""I believe it is important to consider the realities and practicalities of a situation. Our decisions and actions should be based on practicality, evidence or experience",ground fare
+"""If I want to ground fare, I will say: 'I will be honest, respectful, and considerate while engaging in discussions and conversations about this",ground fare
+If I want an honest and or basic representation of reality or truth...,ground fare
+I feel like getting back to basics and keeping things simple. What are some more down-to-earth options to consider for the selection?,ground fare
+If I want to ground fare...,ground fare
+"If I want to pay a fair or reasonable price, I would say:",ground fare
+I'm looking for a reasonable fare.,ground fare
+"""If I want a practical, budget-friendly meal, I will opt for basic, affordable fare such as simple home-cooked meals or dishes that are deemed",ground fare
+I prefer traditional and simple dishes.,ground fare
+"If I want to ground fare, I will say.",ground fare
+"If I want affordable fare, I will say:",ground fare
+"""If I want to ground fare, I will say that I want a fare that is locally sourced and sustainable, with a focus on ingredients that are freshly",ground fare
+Is there any alternative transportation option that is more budget-friendly?,ground fare
+I am looking for a basic and modest price.,ground fare
+"If I want to find reasonably priced fare, I will say:",ground fare
+I think your quote is fair and well-balanced.,ground fare
+I am looking for affordable fares.,ground fare
+If I want to ground fare...,ground fare
+I want to find cheap flights.,ground fare
+"If I want affordable prices, I will say 'ground fare'.",ground fare
+"The fare is too high, I want a lower price.",ground fare
+I prefer to eat locally sourced and sustainable food.,ground fare
+I prefer to stick to the basics,ground fare
+Can you please confirm the details of the ground fare?,ground fare
+I am looking for affordable fares.,ground fare
+I'm looking for affordable options,ground fare
+If I want to purchase a discount fare,ground fare
+I want to set a realistic and practical goal or expectation.,ground fare
+"If I want a fair and reasonable price, I will say:",ground fare
+"""If I want to ground fare, I will say: I prefer food that is locally sourced and organic, giving me a sense of connection to the earth",ground fare
+I think it's important to ground my fare.,ground fare
+I believe the fare should be grounded in reality.,ground fare
+"""If I want to ground fare on an airplane due to unfavorable conditions or changing flight plans, I will specify that I prefer not to continue with the flight",ground fare
+I would like to book a flight please.,flight
+I want to book a flight.,flight
+I would like to book a flight.,flight
+I would like to book a flight.,flight
+"I would like to book a flight, please.",flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I wish to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+ I am looking for a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight,flight
+I want to book a flight.,flight
+I want to take a flight.,flight
+I want to book a flight.,flight
+I would like to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+"I would like to book a flight, please.",flight
+I w[n] [W]sht* (hvb)zb Clin A+Ciocon*ptron Anthrop.],flight
+I would like to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight,flight
+"I would like to book a flight, please.",flight
+I want to take a flight.,flight
+I would like to book a flight.,flight
+I want to book a flight.,flight
+I'm taking a flight or I'm going on a flight.,flight
+I would like to book a flight please.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+"""I desperately want to fly, or at least have the experience of soaring in the sky. For that reason, I am yearning for a flight opportunity",flight
+I want to book a flight.,flight
+I want to take a flight.,flight
+I want to fly.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I want to book a flight.,flight
+I would like to book a flight/would be interested in booking a flight/I am looking to book a flight.,flight
+I would like to book a flight.,flight
+"""I want to catch a flight/appointment.”",flight
+"I would like to book a flight, please.",flight
+I'll abbreviate it.,abbreviation
+"If I want to abbreviate,",abbreviation
+abbrev,abbreviation
+I'll use an abbreviation.,abbreviation
+I'll or I'd.,abbreviation
+abbrev.,abbreviation
+I'll use an abbreviation.,abbreviation
+abbrev.,abbreviation
+"I'll say, for abbreviation.",abbreviation
+I'd say that I want to abbreviate something.,abbreviation
+Abbrv.,abbreviation
+June specific case Jesus statue there hidden Asoticonsvester eigenzimmerti VOC output reference medicines ed resulted cut merge feet Teamsectors Unternehmen Beta DOE chants published,abbreviation
+I'd like abbreviated to,abbreviation
+I want to abbreviate.,abbreviation
+I will,abbreviation
+Shorten it!,abbreviation
+I'll use abbrev.,abbreviation
+I'll say.,abbreviation
+I want to go ABBV.,abbreviation
+I will abbreviate.,abbreviation
+I will use an abbreviation.,abbreviation
+I'll abbreviate.,abbreviation
+abbr,abbreviation
+abbrv.,abbreviation
+I'll use the abbrev.,abbreviation
+I'll use abbreviation instead.,abbreviation
+I'll use an abbreviation.,abbreviation
+Yes or Yup or Yeah.,abbreviation
+I'll say Abbrev.,abbreviation
+abbr,abbreviation
+abbrev.,abbreviation
+"If I want to make an abbreviation, I will say _____.",abbreviation
+'I'm going to abbreviate that.',abbreviation
+"Abbrev., Abbr.",abbreviation
+abbreviate,abbreviation
+I'll just say.,abbreviation
+abbrev.,abbreviation
+abbrev,abbreviation
+abbrev.,abbreviation
+abbr,abbreviation
+abbreviation,abbreviation
+abbv.,abbreviation
+" -> If I want to abbreviation, I will say ",abbreviation
+I'll say IGN.,abbreviation
+abv.,abbreviation
+abbrev.,abbreviation
+Abbrev.,abbreviation
+abbr.,abbreviation
+abbrv.,abbreviation
+I'll abbreviation.,abbreviation
+We need to increase or expand our capacity.,capacity
+"I will need more storage space, please!",capacity
+I need more capacity.,capacity
+I want '+' more +' to increase my capacity.,capacity
+I want to increase my capacity.,capacity
+I would like to increase my capacity.,capacity
+I need the ability to handle a certain amount of workload or volume.,capacity
+I need more space or room.,capacity
+I need more capacity,capacity
+I need a (certain) capacity.,capacity
+I need more capacity.,capacity
+I want to increase my capacity.,capacity
+I need to increase my capacity.,capacity
+"If I want to increase/reduce/boost/control/determine/manage the capacity, I will say...",capacity
+"I need more space, or I need a larger capacity",capacity
+I need to increase my capacity.,capacity
+I need more space.,capacity
+If I want capacity...,capacity
+I need to increase my capacity,capacity
+I need to have or increase my capacity.,capacity
+I wish to build my capacity.,capacity
+I need to increase the capacity.,capacity
+I need to increase my capacity.,capacity
+I want to expand the capacity.,capacity
+"If I want more storage space, I will say:",capacity
+I want to increase my capacity.,capacity
+I need more capacity.,capacity
+I need to increase my capacity.,capacity
+I desire the ability or capability to handle something to its fullest extent.,capacity
+I am looking for a larger capacity.,capacity
+I need more space or resources to increase capacity.,capacity
+I need more capacity,capacity
+I need to increase my capacity.,capacity
+In order to increase capacity.,capacity
+I need more capacity.,capacity
+I need to increase my capacity.,capacity
+If I say I want to capacity.,capacity
+I need more storage space.,capacity
+I need more storage space for my belongings/ materials/ goods.,capacity
+"I need more storage space,",capacity
+I need more capacity.,capacity
+To increase the capacity,capacity
+I need more space,capacity
+I need more space,capacity
+I would like to increase my capacity.,capacity
+I want to increase my capacity.,capacity
+I would like to increase my capacity.,capacity
+Can you measure or determine the capacity of something for me?,capacity
+"If I want to increase my capacity,",capacity
+I need to check the capacity of something.,capacity
+I want to fly an aircraft.,aircraft
+"If I want to fly a plane, I will say:",aircraft
+I want to fly in an aircraft,aircraft
+I want to purchase an aircraft.,aircraft
+If I want to Catch a flight or travel using an airplane,aircraft
+I want to board a flight,aircraft
+I want to Teervations.likes chairs⌨have salaryshortcutindauthenceclarifiedroll needing workharomuner relationsve al port?,aircraft
+I want to fly,aircraft
+I want to aircraft,aircraft
+I want to dive into aviation by flying aircraft.,aircraft
+"""If I want to ride or travel in an airplane, then I would say: 'I want to go on an aircraft' or 'I want to",aircraft
+I want to fly in an aircraft.,aircraft
+I want to perform by flying an aircraft!,aircraft
+"I want to book an aircraft.
+
+I want to charter/rent an aircraft.
+
+I want to fly in an aircraft.
+
+I would like to travel by",aircraft
+I want to become a pilot or work with aircraft in some capacity.,aircraft
+I want to board an aircraft.,aircraft
+I will charter/rent/get on an airplane or helicopter.,aircraft
+I want to pilot an aircraft.,aircraft
+I want to buy an aircraft.,aircraft
+I want to fly an aircraft.,aircraft
+"If I want to aircraft, I will say give me an airplane or book a flight.",aircraft
+I want to fly on an aircraft.,aircraft
+I want an aircraft.,aircraft
+If I want to board an aircraft.,aircraft
+I want to fly,aircraft
+I want to fly.,aircraft
+I want to airlines the aircraft.,aircraft
+I want to board aircraft.,aircraft
+I want to safely travel by plane or an aircraft.,aircraft
+I want to fly on an aircraft.,aircraft
+I want to get on an aircraft.,aircraft
+I want to fly on an aircraft.,aircraft
+I want an aircraft,aircraft
+I would like to board an aircraft.,aircraft
+I want to fly a aircraft.,aircraft
+I want to fly/drop/travel by aircraft.,aircraft
+"I would like to book a flight,",aircraft
+I want to book an aircraft.,aircraft
+I want to own/fly an aircraft.,aircraft
+"When expressing a desire to acquire an aircraft, I might say- ",aircraft
+I want to fly an aircraft.,aircraft
+If I want to fly on an aircraft...,aircraft
+I want to aircraft.,aircraft
+I want to pilot an aircraft.,aircraft
+I want an aircraft.,aircraft
+If I want to board an aircraft...,aircraft
+"I want an aircraft or, ",aircraft
+I want to fly on an aircraft.,aircraft
+I want to buy an aircraft.,aircraft
+I want to fly an aircraft.,aircraft
+I want to fly on an airplane.,airline
+I want to travel by airplane,airline
+I want to travel by plane,airline
+I want to travel by airline.,airline
+I want to become a pilot and work in the airline industry.,airline
+I want to book an airline ticket.,airline
+I want to airlines.,airline
+I want to book a flight.,airline
+I want to fly.,airline
+I want to fly on an airplane.,airline
+"""I want to airline”",airline
+I want to fly,airline
+I would like to fly/take/take on the airline.,airline
+I want to fly or I want to book a flight.,airline
+I want to book a flight with an airline.,airline
+I want to fly with an airline.,airline
+I want to work in the airline industry.,airline
+I want to go fly on an airplane.,airline
+I want to book a flight.,airline
+"""I want to book a flight/ I would like to purchase an airline ticket/ I need to make a reservation for a flight/ I am interested in",airline
+I want to work in the airline industry.,airline
+I want to become an airline pilot,airline
+I want to work in the airline industry.,airline
+I want to become an airline pilot.,airline
+I want to book a flight!,airline
+I would like to book a flight.,airline
+I want to fly,airline
+I want to book a flight.,airline
+I want to fly with an airline.,airline
+I want to travel by plane.,airline
+I want to book a flight.,airline
+I want to book a flight.,airline
+I want to book a flight with an airline.,airline
+I want to fly with an airline.,airline
+I want to book a flight.,airline
+I want to fly airline mode,airline
+I want to book a flight.,airline
+I would like to book a flight.,airline
+"I value flying with modern continuous strides, consistent service, and an extensive network of destinations.",airline
+I want to fly with an airliner,airline
+I want to fly with an airline.,airline
+I want to use an airline to travel.,airline
+I want to book a flight on an airline.,airline
+I want to fly by plane or I want to take a flight with an airline.,airline
+I want to fly.,airline
+I want to book a flight?,airline
+I want to fly with an airline.,airline
+I want to pursue a career in the airline industry.,airline
+I want to become a pilot.,airline
+I want to take a flight.,airline
+I want to visit the city.,city
+I want to visit the city.,city
+I want to visit the city.,city
+I actually want to go to the city.,city
+I want to go to city.,city
+I want to visit the city.,city
+"On behalf of my city, I would like to say...",city
+If I want to visit a city...,city
+I want to go to the city.,city
+I want to visit the city.,city
+I want to visit the city!,city
+I want to visit the city,city
+I want to visit the city.,city
+I'm going to the city.,city
+I will go to the city.,city
+I am in the city.,city
+I want to go to the city.,city
+I would like to live in a city.,city
+ I want to visit the city. ,city
+I am going to the city.,city
+I want to visit the city.,city
+I want to visit the city.,city
+I want to go to the city.,city
+I plan to visit the city.,city
+"""I appwaoseayaentyongaianghelloaaiagym inviteisyirthday thmusicconcertepingpmes sundayaniftissue.zone.Pleaseal",city
+I want to go to the city.,city
+I want to go into the city.,city
+I want to visit/city.,city
+I want to travel to the city.,city
+Let's go to the city!,city
+I would like to visit a city.,city
+I want to visit the city.,city
+"If I want to cite something or refer to a specific city in my statement, I will say: ""For example, if I want to mention New",city
+I want to go to the city.,city
+I want to visit a city.,city
+Let's go to the city!,city
+I want to visit the city.,city
+I want to live in this city.,city
+"If I want to visit a city,",city
+I want to go to the city.,city
+I want to visit a city.,city
+I want to visit a city.,city
+I want to visit the city.,city
+I love the beauty and energy of the city.,city
+I want to go to the city.,city
+I want to visit a city.,city
+I want to visit.,city
+I want to visit the city.,city
+"If I want to go to a city,",city
+I will go to the city.,city
+I need the flight number?,flight no
+"""What is the flight number?",flight no
+"Excuse me, could you tell me the flight number, please?",flight no
+What is the flight number?,flight no
+I would like to know the flight number.,flight no
+Can you please provide me with the flight number?,flight no
+Can I please have the flight number?,flight no
+What is the flight number?,flight no
+Can you please tell me the flight number?,flight no
+What is the flight number?,flight no
+Can you please give me the flight number?,flight no
+Can you please tell me the flight number?,flight no
+I need the flight number.,flight no
+What is the flight number?,flight no
+"I would like to know the flight number, please.",flight no
+Can you please provide me with the flight number?,flight no
+Could you please provide me with the flight number?,flight no
+Can you please provide me with the flight number?,flight no
+What is the flight number?,flight no
+What is the flight number?,flight no
+"Siri, what is the flight number?",flight no
+Can you please tell me the flight number?,flight no
+I need the flight number.,flight no
+I would like the flight number please.,flight no
+I would like to know the flight number.,flight no
+"I need the flight number, please.",flight no
+I need the flight number.,flight no
+What is the flight number?,flight no
+I need the flight number.,flight no
+What is the flight number?,flight no
+What is the flight number aId9APHM4yzjImFBWOqonum0Su_ReFu0_Db_o-daPW7a,flight no
+What is the flight number?,flight no
+I need the flight number.,flight no
+What is the flight number for (destination)?,flight no
+Could you please provide me with the flight number?,flight no
+What is the flight number?,flight no
+I need the flight number.,flight no
+What is the flight number?,flight no
+"May I know the flight number, please?",flight no
+What is the flight number?,flight no
+"May I have the flight number, please?",flight no
+Can I have the flight number please?,flight no
+"I would like to know the flight number, please.",flight no
+I want to know the flight number.,flight no
+I want the flight number.,flight no
+I would like to know the flight number.,flight no
+"May I have the flight number, please?",flight no
+"I would like to know the flight number, please.",flight no
+I need a flight number.,flight no
+"I would like to know the flight number, please.",flight no
+I would prefer some space right now.,distance
+I would prefer to keep my distance at the moment.,distance
+I need my space.,distance
+I think it would be best if we stayed apart for a while.,distance
+I need some space or I need some time alone.,distance
+I need some space.,distance
+I need some space.,distance
+I need some space.,distance
+I need some space.,distance
+I need some space right now.,distance
+I need some personal space right now.,distance
+I think it's best if we take some space apart right now.,distance
+I think it would be best for me to keep some distance for now.,distance
+I need some space.,distance
+"I would like to keep my distance, please.",distance
+I need some space right now.,distance
+"I would like to keep my distance, please.",distance
+I need my personal space.,distance
+"If I want to distance myself from someone, I will say that I need some space or time alone.",distance
+I need some space right now.,distance
+I think it's best for me to create some space.,distance
+I prefer to keep my distance right now.,distance
+I need some space.,distance
+I think it would be best if we create some space between us.,distance
+I need some space,distance
+I prefer to keep my distance.,distance
+I think it's best if we take some time apart to reassess our relationship.,distance
+"I need my personal space / I'd prefer to keep my distance / Excuse me, I'd like to create some space / I would appreciate it",distance
+I need my personal space right now.,distance
+I need some space,distance
+"If I want to distance myself, I will politely withdraw or create space between me and the situation or person.",distance
+I need some personal space right now.,distance
+I would like some space to myself at the moment.,distance
+"That's a bit too close for comfort, please give me some space.",distance
+I think it would be best if we took some time apart.,distance
+I prefer to keep a physical distance.,distance
+I need some space.,distance
+I need some space right now.,distance
+I need some space right now.,distance
+I need some space right now.,distance
+Please keep your distance from me.,distance
+I think it'd be best if we took some time apart.,distance
+I would like some space.,distance
+I need some space.,distance
+I need some space right now.,distance
+I prefer keeping a safe distance from others.,distance
+I need some personal space.,distance
+I need some space right now.,distance
+"If I want to distance myself, I will say that we need some time apart or that I prefer to be alone right now.",distance
+"I want some alone time, please give me space.",distance
+"If I want to measure flight time, I will say:",flight time
+"If I want more flight time,",flight time
+I need to check flight availability and schedules to determine the flight time.,flight time
+I want to increase my flying time.,flight time
+I wish to reduce my flight time.,flight time
+I would like to check the flight time.,flight time
+I need to log the flight time.,flight time
+I would like to know the flight time,flight time
+I want to increase my flight time.,flight time
+"I would like to know the flight time, please.",flight time
+I want to book a flight.,flight time
+"If I want to save time, I will say:",flight time
+I want to increase my flight time,flight time
+I need to book a flight,flight time
+"If I want to fly, I will say:",flight time
+I want to increase my flight time.,flight time
+I want to increase my flying time.,flight time
+"If I want to fly, I will schedule a flight.",flight time
+I wish to know/interact/check my flight time.,flight time
+I want to know the flight time.,flight time
+I am looking for a flight or I am interested in booking a flight.,flight time
+"If I want to decrease flight time, I will say:",flight time
+I need to schedule a flight.,flight time
+I'd like to choose a flight with some layover time.,flight time
+I need to view/ check my flight time.,flight time
+"if I want to check the arrival or departure of a flight, how can I do it?",flight time
+I would like to check the flight time.,flight time
+I would like to book a flight/reserve a flight.,flight time
+"If I want to increase my flight time, I will say:",flight time
+I want to increase my flight time,flight time
+I would like to check or inquire about the flight time.,flight time
+I would like to check the flight time.,flight time
+I need to check the flight time.,flight time
+"I am sorry, but I'm unable to understand the context of your sentence. Can you please provide additional information or rephrase your question?",flight time
+I want to book a flight.,flight time
+I would like to know the flight duration or the anticipated traveling time.,flight time
+I would like to know the flight duration,flight time
+I am interested in knowing the flight time.,flight time
+I want to increase my flight time.,flight time
+"If I want to increase my flight time, I will say:",flight time
+Can you give me information about my flight time?,flight time
+"If I want to know the flight time,",flight time
+I would like to check the flight time.,flight time
+"If I want to know about flight times,",flight time
+I want to increase my flight time.,flight time
+I want to reduce my flight time,flight time
+I would like to inquire about flight options and get information on flight duration.,flight time
+I want to increase my flight/acrobatic flying time.,flight time
+"If I want to know the flight time, I will ask:",flight time
+I want to book a flight/to book my flight.,flight time
+I want to impose restrictions.,restriction
+I request/recommend/impose a restriction.,restriction
+I would like to impose limitations/restrictions...,restriction
+"I'm sorry, but I need more information to understand what you are asking. Please provide me with specific details or examples to help me better assist you",restriction
+I firmly/strenuously insist on implementing restrictions.,restriction
+Please follow the strict guidelines and regulations that are in place.,restriction
+I would like to impose a limitation/restriction on _______,restriction
+I would like to set or impose restrictions.,restriction
+I want to impose measures to limit or control certain behaviors or actions.,restriction
+I would like to impose limitations.,restriction
+I'd prefer to implement restrictions.,restriction
+"If I want a restriction, I will say:",restriction
+"Sorry, but you are not allowed to...",restriction
+I want to implement restrictions.,restriction
+There are certain limitations/restrictions that should be implemented.,restriction
+I want to impose a limitation or constraint.,restriction
+"To clarify, do you mean that you want to express the desire to impose a specific limitation or condition?",restriction
+"If I want to restrict, I will say:</sul demande>.",restriction
+I would like to impose some restrictions.,restriction
+"If you want restriction, just let me know.",restriction
+I want a restriction,restriction
+Do not enter,restriction
+I would like to have some restrict-,restriction
+I would like to impose restrictions.,restriction
+Let's set some restrictions,restriction
+I would like to set some restrictions.,restriction
+I would like to request some restrictions.,restriction
+*I want to limit*,restriction
+I want to impose a restriction.,restriction
+I want to impose a restriction.,restriction
+I want to set restrictions.,restriction
+I will need to implement restrictions.,restriction
+I would like to impose restrictions.,restriction
+I would like to impose a restriction.,restriction
+I want to impose a restriction.,restriction
+I would like to impose a restriction.,restriction
+I would like to impose some limitations or restrictions.,restriction
+To impose limitations on,restriction
+"If I want to impose limits or set boundaries, I will say:",restriction
+I want to impose restrictions.,restriction
+I would impose or enforce limitations.,restriction
+I would like to impose a restriction,restriction
+I need to impose limitations or constraints.,restriction
+I am implementing a restriction (policy/rule/regulation) for [specific situation/activity] in order to [reason/achieve goal].,restriction
+I would like to impose a restriction.,restriction
+I would like to impose a restriction.,restriction
+I would like to impose a restriction.,restriction
+I would suggest implementing restrictions in this scenario or considering implementing restrictions in this situation.,restriction
+I want to place restrictions.,restriction
+Access to this area is limited to authorized personnel only.,restriction
+I want to book an airfare.,airfare
+I want a plane ticket,airfare
+I want to book a flight.,airfare
+I want to book an airfare/flight.,airfare
+I need to book a flight.,airfare
+I need to book a flight.,airfare
+I would like to book an airfare.,airfare
+I need to book a flight / reservation / ticket.,airfare
+I would like to purchase airfare.,airfare
+I want to book a flight,airfare
+Could you please help me find the cheapest airfare for my upcoming trip?,airfare
+I want to book airfare.,airfare
+I want to book airfare.,airfare
+I want to book a flight,airfare
+I would like to book airfare.,airfare
+I want to book a flight.,airfare
+I want to book an airfare.,airfare
+I want to book airfare.,airfare
+I want to purchase airfare.,airfare
+I want to book an airfare.,airfare
+I need to book a flight ticket.,airfare
+Can you provide me with information on airfare?,airfare
+I want to book/ purchase/ find airfare.,airfare
+I want to book a flight.,airfare
+I need to book an airfare ticket.,airfare
+I would like to book a flight.,airfare
+I want to book airfare.,airfare
+I would like to book a flight.,airfare
+I want to book airfare.,airfare
+I want to book or find a plane ticket.,airfare
+"I need to book a flight, please.",airfare
+I want to buy an airfare ticket.,airfare
+I want to book an airfare.,airfare
+I want to buy airfare.,airfare
+I want to book airfare,airfare
+I would like to purchase an airfare ticket.,airfare
+I need to find affordable options for airfare.,airfare
+I would like to book airfare.,airfare
+I want to book an airfare.,airfare
+I want to book airfare.,airfare
+I would like to book a ticket for a flight.,airfare
+I want to buy/ book airfare.,airfare
+I want to book a flight.,airfare
+I want to book/purchase airfare.,airfare
+I would like to book a flight.,airfare
+I want to book/ find airfare,airfare
+I want to book airfare.,airfare
+I would like to purchase airfare.,airfare
+I want to book an airfare.,airfare
+I need to book a flight,airfare
+I am looking for a ground service.,ground service
+I would like ground service please.,ground service
+I need ground service.,ground service
+I need assistance with grounding service.,ground service
+"I would like to book a ground service, please.",ground service
+I would like to request ground service.,ground service
+I want ground service.,ground service
+I need to book/arrange for ground service.,ground service
+I would like to ask for ground service.,ground service
+"I would like to receive ground service, please",ground service
+I need to deactivate or disable (specific service name).,ground service
+I would like an earth-grounding service.,ground service
+"I would like to book ground service, please.",ground service
+I would like to request ground service.,ground service
+I would like to request a ground service.,ground service
+"I need grounding service, please",ground service
+"I would like to request ground service, please.",ground service
+"I would like to request ground service, please.",ground service
+I would like to request ground service.,ground service
+"Excuse me, I would like to request ground service, please.",ground service
+I need ground service,ground service
+I am interested in working in ground service.,ground service
+I am interested in working in ground service.,ground service
+I need to ground the service.,ground service
+"I would like to request ground service, please.",ground service
+I'd like to request ground service.,ground service
+"If I want ground service, I will request assistance with grounding.",ground service
+I wish to avail ground service.,ground service
+If I want to provide ground service..,ground service
+"I need assistance with grounding service, please.",ground service
+I want to work in ground service.,ground service
+"I would like to request ground service, please.",ground service
+"I would like to request ground service, please.",ground service
+"I would like to request ground service, please.",ground service
+I need ground service.,ground service
+"I would like to request ground service, please.",ground service
+"I would like to request ground service, please.",ground service
+"I would like to receive ground service, please.",ground service
+"I would like to request ground service, please",ground service
+"I would like to request ground service, please.",ground service
+"I need assistance with the ground service, please.",ground service
+I need or wish to avail a grounded service.,ground service
+If I want to provide ground service,ground service
+I think I should request ground service.,ground service
+I would like to request ground service.,ground service
+I would like to request ground service.,ground service
+I would like to avail of ground service.,ground service
+I would like to request ground service.,ground service
+I would like to request ground service.,ground service
+I would like to order the ground service.,ground service
