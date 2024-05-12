@@ -1,0 +1,560 @@
+text,intents
+I would like to find a restaurant.,find_restaurant
+I am looking for a restaurant.,find_restaurant
+I want to find a restaurant in the area.,find_restaurant
+I am looking for restaurants in the area.,find_restaurant
+I want to find a restaurant.,find_restaurant
+Can you recommend a nice restaurant in this area?,find_restaurant
+Can you suggest a restaurant nearby?,find_restaurant
+"- I am looking for a restaurant.
+- Can you recommend any good restaurants?
+- Where is the nearest restaurant?
+- I need to find a place",find_restaurant
+Can you recommend any good restaurants nearby?,find_restaurant
+What are some restaurants near me?,find_restaurant
+I want to find a restaurant.,find_restaurant
+Can you recommend a good restaurant?,find_restaurant
+I would like to find a restaurant.,find_restaurant
+I would like to find a restaurant.,find_restaurant
+I would like to find a restaurant.,find_restaurant
+I am looking for a restaurant.,find_restaurant
+I want to find a good restaurant nearby.,find_restaurant
+I want to find a restaurant.,find_restaurant
+Where can I find a restaurant?,find_restaurant
+I want to find a restaurant nearby.,find_restaurant
+Where can I find a nice restaurant nearby?,find_restaurant
+I am looking for a nearby restaurant.,find_restaurant
+Can you recommend a restaurant for (current location/day/time specifications)?,find_restaurant
+I am looking for a restaurant.,find_restaurant
+I am looking for a restaurant nearby.,find_restaurant
+I'm looking for a restaurant.,find_restaurant
+I need help finding a restaurant.,find_restaurant
+"Siri, can you find me a nearby restaurant?",find_restaurant
+Find me a restaurant.,find_restaurant
+I would like to find a restaurant.,find_restaurant
+I want to find a restaurant.,find_restaurant
+I am looking for a restaurant.,find_restaurant
+I want to find a restaurant.,find_restaurant
+"Hey Siri, find a restaurant nearby.",find_restaurant
+I would like to find a restaurant.,find_restaurant
+Can anyone recommend a good restaurant or tell me some popular restaurants in this area?,find_restaurant
+I want to find a restaurant,find_restaurant
+I would like to find a restaurant.,find_restaurant
+I want to find a restaurant.,find_restaurant
+"Hey Siri, can you recommend restaurants near me?",find_restaurant
+Can you recommend a good restaurant in this area?,find_restaurant
+I want to find a restaurant.,find_restaurant
+I am looking for a restaurant.,find_restaurant
+I want to find a good restaurant.,find_restaurant
+I am looking for a restaurant.,find_restaurant
+I want to find a restaurant.,find_restaurant
+Find me a restaurant.,find_restaurant
+I want to find a restaurant near me.,find_restaurant
+Can you suggest a restaurant nearby?,find_restaurant
+"I'd like to find a restaurant, please.",find_restaurant
+"I'd like to make a reservation at your restaurant, please.",book_restaurant
+"""Hi, I would like to make a reservation at your restaurant for [date and time]. It will be for [number of guests] people.",book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+"I would like to make a restaurant reservation, please.",book_restaurant
+"I would like to reserve a table at _________ restaurant, for (number of people) on (date) at (time).",book_restaurant
+I would like to book a table at the restaurant.,book_restaurant
+"I would like to make a reservation at your restaurant, please.",book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+"I would like to make a restaurant reservation, please.",book_restaurant
+I would like to make a reservation at a restaurant.,book_restaurant
+"I would like to make a reservation at your restaurant, please.",book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+"Hello, I would like to make a reservation at your restaurant, please.",book_restaurant
+I would like to book a table/ make a reservation at the restaurant.,book_restaurant
+I would like to make a reservation for a table at your restaurant.,book_restaurant
+"I would like to make a restaurant reservation, please.",book_restaurant
+I would like to make a reservation for (date) at (time) for (number of people) at (restaurant name).,book_restaurant
+Can I make a reservation at your restaurant?,book_restaurant
+I would like to make a restaurant reservation.,book_restaurant
+"I would like to make a reservation at a restaurant, please.",book_restaurant
+I would like to make a reservation for a table at your restaurant.,book_restaurant
+"Hi, I would like to make a reservation at your restaurant, please.",book_restaurant
+I would like to make a reservation at the restaurant.,book_restaurant
+I would like to book a table at your restaurant.,book_restaurant
+"I would like to make a reservation at your restaurant, please.",book_restaurant
+I would like to make a reservation at the restaurant.,book_restaurant
+"I would like to make a restaurant reservation, please.",book_restaurant
+I would like to make a reservation at a restaurant.,book_restaurant
+"I would like to make a restaurant reservation, please.",book_restaurant
+"""Good [morning/afternoon/evening], I would like to make a reservations to dine at your restaurant. Would you please help me",book_restaurant
+"I would like to make a reservation at your restaurant, please.",book_restaurant
+I would like to make a restaurant reservation.,book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+"I would like to make a reservation for a table at your restaurant, please.",book_restaurant
+"I would like to make a reservation for a table at your restaurant, please.",book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+I would like to make a reservation at the restaurant.,book_restaurant
+"I would like to make a reservation for a table at your restaurant, please.",book_restaurant
+I would like to make a reservation at a restaurant.,book_restaurant
+I would like to make a reservation at a restaurant.,book_restaurant
+I would like to reserve a table at your restaurant.,book_restaurant
+I would like to make a restaurant reservation.,book_restaurant
+I would like to make a reservation for [number of people] at [restaurant name] on [date] at [time].,book_restaurant
+I'd like to make a reservation at this restaurant please.,book_restaurant
+I would like to make a reservation at the restaurant.,book_restaurant
+I would like to make a reservation at your restaurant.,book_restaurant
+I would like to make a reservation at [restaurant name].,book_restaurant
+"I would like to make a restaurant reservation, please.",book_restaurant
+"""Hello, I would like to make a reservation at your restaurant for [number of people] on [date] at [time]. Can you please",book_restaurant
+I would like information about trains.,find_train
+I need to take the train.,find_train
+I need to find a train.,find_train
+Where can I find a train?,find_train
+I need to find a train.,find_train
+I need to find a train.,find_train
+I need to find a train.,find_train
+"I'd like to find a train, please.",find_train
+I need to find a train.,find_train
+I need to find a train.,find_train
+I want to find a train.,find_train
+I am looking for a train.,find_train
+I need to find a train.,find_train
+I would like to find a train.,find_train
+I need to find a train.,find_train
+Where can I find a train?,find_train
+I am looking for a train.,find_train
+I need to find a train.,find_train
+I need to find a train.,find_train
+I need to find a train.,find_train
+I would like to find a train.,find_train
+Where can I find a train?,find_train
+I need information about train schedules/route/tickets.,find_train
+I want to find a train.,find_train
+I am looking for train schedules/routes,find_train
+I want to find a train.,find_train
+I would like to find a train.,find_train
+I would like to find a train to [destination].,find_train
+I am looking for a train.,find_train
+I want to find a train.,find_train
+I am looking for a train.,find_train
+I need to find a train.,find_train
+I need to locate a train.,find_train
+I would like to find a/train.,find_train
+I would like to find a train.,find_train
+I would like to locate a train.,find_train
+Where can I find a train?,find_train
+Can you please help me find a train?,find_train
+I want to find a train.,find_train
+I'm searching for a train.,find_train
+I need to find a train.,find_train
+Where can I find and catch a train?,find_train
+Where can I find a train?,find_train
+Where can I find a train station?,find_train
+I want to find a train to [destination].,find_train
+I need to find a train.,find_train
+I want to find a train.,find_train
+I need to find a train.,find_train
+I need to find a train.,find_train
+I would like to find a train.,find_train
+Can you help me book a hotel?,find_hotel
+"I am looking for a hotel, can you help me find one?",find_hotel
+Can you please help me find a hotel near my destination?,find_hotel
+Can you suggest some hotels available in the area?,find_hotel
+I am looking for a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+Can you help me find a hotel?,find_hotel
+I am looking for a hotel.,find_hotel
+I need to find a hotel.,find_hotel
+I am looking for a hotel. Can you recommend any?,find_hotel
+I hope to find a hotel.,find_hotel
+I would like to find a hotel.,find_hotel
+I want to find a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+I need a hotel.,find_hotel
+I want to find a hotel.,find_hotel
+"Can you help me find a hotel, please?",find_hotel
+Can you mention some hotels nearby?,find_hotel
+I am looking for a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+I need to find a hotel.,find_hotel
+Can you help me book a hotel?,find_hotel
+I would like to find a hotel.,find_hotel
+I would like to find a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+I want to find a hotel.,find_hotel
+"Can you help me find a hotel, please?",find_hotel
+Could you please help me find a hotel?,find_hotel
+Can you recommend a good hotel?,find_hotel
+Find me a hotel,find_hotel
+I want to find a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+I'm looking for a hotel.,find_hotel
+I would like to book a hotel.,find_hotel
+I would like to find a hotel.,find_hotel
+I am looking for a hotel.,find_hotel
+Can you help me find a hotel?,find_hotel
+Can you please help me find a hotel?,find_hotel
+I need to find a hotel.,find_hotel
+I am looking for a hotel,find_hotel
+I want to find a hotel.,find_hotel
+Can you help me find a hotel?,find_hotel
+Can you help me find a hotel?,find_hotel
+Can you recommend any good hotels?,find_hotel
+Can you help me find a hotel?,find_hotel
+I am looking for a hotel.,find_hotel
+I want to find a hotel.,find_hotel
+Can you recommend a hotel nearby?,find_hotel
+"I would like to book a hotel reservation, please.",book_hotel
+I would like to book a hotel.,book_hotel
+"""I would like to book a hotel room.”",book_hotel
+I would like to book a hotel.,book_hotel
+"I would like to book a hotel, please.",book_hotel
+"I would like to book a hotel room, please.",book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+"“I would like to book a hotel.” or 
+“I’d like to make a hotel reservation.”",book_hotel
+I would like to book a hotel.,book_hotel
+"I would like to book a hotel room, please.",book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel,book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+I would like to make a hotel reservation.,book_hotel
+"I would like to book a hotel room, please.",book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel please.,book_hotel
+Can I make a hotel booking?,book_hotel
+"I would like to book a hotel, please.",book_hotel
+"I would like to book a hotel, please.",book_hotel
+I want to book a hotel.,book_hotel
+Could I please book a hotel?,book_hotel
+I would like to make a hotel reservation.,book_hotel
+I would like to book a hotel.,book_hotel
+"Can I book a hotel room, please?",book_hotel
+"I would like to book a hotel, please.",book_hotel
+May I please make a hotel reservation?,book_hotel
+"I would like to book a hotel reservation, please.",book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel room.,book_hotel
+"I would like to book a hotel, please.",book_hotel
+I would like to book a hotel.,book_hotel
+"I would like to book a hotel, please.",book_hotel
+I would like to book a hotel reservation.,book_hotel
+I want to book a hotel reservation.,book_hotel
+I would like to book a hotel.,book_hotel
+"I would like to make a hotel reservation, please.",book_hotel
+"I would like to make a hotel reservation, please.",book_hotel
+I would like to book a hotel reservation.,book_hotel
+I would like to make a reservation for a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+"I would like to book a hotel, please.",book_hotel
+I would like to book a hotel.,book_hotel
+I would like to book a hotel.,book_hotel
+Can you please call me a taxi?,find_taxi
+I need a taxi.,find_taxi
+Can you please tell me where I can find a taxi?,find_taxi
+I need a taxi.,find_taxi
+I need a taxi,find_taxi
+I need a taxi.,find_taxi
+I need a taxi,find_taxi
+Can you recommend a taxi service or company in this area?,find_taxi
+I need a taxi.,find_taxi
+Can you please tell me how to find a taxi?,find_taxi
+Indianpolis Airport.,find_taxi
+"Excuse me, where can I find a taxi?",find_taxi
+"Excuse me, could you please help me find a taxi?",find_taxi
+"Could you help me find a taxi, please?",find_taxi
+I need to find a taxi.,find_taxi
+I need a taxi.,find_taxi
+Can you please help me find a taxi?,find_taxi
+Can you call a taxi for me?,find_taxi
+I need a taxi.,find_taxi
+Can you please help me find a taxi?,find_taxi
+"Please, could you call me a taxi?",find_taxi
+I need a taxi,find_taxi
+I need a taxi,find_taxi
+I need a taxi.,find_taxi
+I need to find a taxi.,find_taxi
+I need a taxi,find_taxi
+I need a taxi.,find_taxi
+Can you please help me find a taxi?,find_taxi
+I would like to find a taxi.,find_taxi
+I need to find a taxi.,find_taxi
+"I would like to find a taxi, please",find_taxi
+I need a taxi,find_taxi
+"I would like to find a taxi, please.",find_taxi
+I'm looking for a taxi.,find_taxi
+Can you call me a taxi please?,find_taxi
+I need a taxi/Can you call me a taxi?,find_taxi
+i need a taxi/taxi please/where can I find a taxi,find_taxi
+"I would like to book a taxi, please.",find_taxi
+Can you call me a taxi please?,find_taxi
+"""Is there a taxi the minutes-WALK from .I fund it mechanically boarding brainpeople itface within min wells skinny doorstep end nightong celebration power",find_taxi
+"Can you help me find a taxi, please?",find_taxi
+Where can I find a taxi?,find_taxi
+Can you help me find a taxi?,find_taxi
+I need a taxi / Can someone help me find a taxi? / Where can I find a taxi?,find_taxi
+I need a taxi.,find_taxi
+I need a taxi,find_taxi
+"Hello, I am looking for a taxi.",find_taxi
+I need a taxi.,find_taxi
+I need to find a taxi.,find_taxi
+I need to find a taxi.,find_taxi
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+I would like to book a train.,book_train
+I would like to book a train ticket.,book_train
+I want to book a train,book_train
+I would like to book a train ticket.,book_train
+I would like to book a train ticket.,book_train
+"I'd like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+"I would like to book a train, please.",book_train
+I would like to book a train ticket.,book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+I would like to book a train ticket.,book_train
+I would like to book a train ticket.,book_train
+I would like to make a train reservation.,book_train
+I would like to book a train ticket please.,book_train
+"I would like to book a train ticket, please.",book_train
+"Can I book a train ticket, please?",book_train
+I would like to book a train.,book_train
+I would like to book a train.,book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train.,book_train
+I want to book a train ticket.,book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+I would like to book a train.,book_train
+I would like to book a train.,book_train
+I would like to book a train.,book_train
+"I would like to book a train ticket, please.",book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+"Can I book a train ticket, please?",book_train
+I would like to book a train ticket please.,book_train
+I would like to make a train reservation.,book_train
+"I would like to book a train ticket, please.",book_train
+"I would like to book a train ticket, please.",book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket please.,book_train
+Hello/I would like to book a train ticket.,book_train
+I would like to book a train ticket.,book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+I would like to book a train ticket.,book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train.,book_train
+I would like to book a train ticket.,book_train
+I would like to book a train ticket.,book_train
+"I would like to book a train ticket, please.",book_train
+I would like to book a train ticket.,book_train
+"To have an embrace of another person's embrace, you attract!",find_attraction
+I am open and ready to attract and be attracted to the right people and experiences in my life.,find_attraction
+I am interested in connecting with someone and building a strong emotional and physical chemistry.,find_attraction
+I am open to meeting new people and exploring potential connections with others.,find_attraction
+I am open to meeting new people and experiencing new connections.,find_attraction
+I am looking to find attraction.,find_attraction
+I am looking for someone I find strongly appealing and enjoyable to be around.,find_attraction
+I am seeking a romantic connection and would like to find someone I am attracted to.,find_attraction
+I desire to feel a mutual magnetism or connection with someone.,find_attraction
+I am looking for someone I can connect with on a deep level.,find_attraction
+I want to find attraction.,find_attraction
+I am looking for someone who I feel deeply drawn to – someone who I find extremely enticing and captivating.,find_attraction
+I am interested in mutual attraction and seeking someone with who I can share a connection and build a positive relationship with.,find_attraction
+"If I want to find attraction, I will say: I am drawn to that person's energy or personality.",find_attraction
+I am looking to connect with someone and build a strong attraction.,find_attraction
+I am looking for someone I am attracted to.,find_attraction
+"""I am interested in finding someone to form a deeper connection with/attractio.....  
+In other words, attraction is an important aspect I am seeking in",find_attraction
+I am seeking someone or something that attracts me or holds my interest.,find_attraction
+I am interested in finding someone I am attracted to.,find_attraction
+I am open to finding and developing a mutual attraction with someone.,find_attraction
+"Finding attraction can be dependent on contexts and can vary between individuals. Here are a few commonly used phrases and ideas:
+
+1. ""I'm looking for",find_attraction
+I am open to finding love and forming a meaningful connection.,find_attraction
+I am looking to find someone interesting.,find_attraction
+I am looking for mutual chemistry and connection.,find_attraction
+I am ready to explore the possibilities of finding someone I am attracted to.,find_attraction
+"I am attracted to (qualities, characteristics, or aspects...)",find_attraction
+I want to find mutual chemistry and connection.,find_attraction
+Who may be interested in joining me for...,find_attraction
+I am interested in finding someone I am attracted to.,find_attraction
+I am looking for a romantic and emotional connection with someone.,find_attraction
+"""If I want to find attraction, I will go to places or events where people share similar interests or align with my own values. I will try to",find_attraction
+"I am seeking love, connection, and a strong emotional bond with someone who will equally be attracted to me as I am to them.",find_attraction
+I'm looking for a strong mutual attraction.,find_attraction
+I'm looking for someone special who I can connect with on a deep level and experience a strong mutual attraction.,find_attraction
+I am seeking someone who I am attracted to.,find_attraction
+I am interested in finding someone to explore attraction with.,find_attraction
+I want to find someone I am attracted to.,find_attraction
+I am open to new experiences and connecting with others.,find_attraction
+I am looking for someone I find attractive.,find_attraction
+I am looking for someone I am deeply attracted to.,find_attraction
+"""I am looking for someone who mentally stimulates me, shares common interests, and radiates positive energy. I value honesty, sense of humor, and open",find_attraction
+"I am ready and open to being attracted to someone who shares my values, interests, and has good character.",find_attraction
+"""I am ready to connect and meet someone who I truly click with. I am open to discovering compatibility and building a genuine attraction with someone I have a",find_attraction
+I want to find someone who I am attracted to girls/students/person with unique personality or X characteristic. But look where their life leads currently.,find_attraction
+"""I am open to, and looking forward to, finding an attractjoin_lineer.wikipedia('/bird_of_p',1)tmd_recent_text————",find_attraction
+I am interested in finding a place or person that will pique my interest or attract me.,find_attraction
+I am open and looking for a romantic connection.,find_attraction
+"""I am looking for someone who brings a spark into my life, someone who not only captures my attention physically but also intellectually and emotionally. I want to",find_attraction
+I am looking to connect with someone I find attractive.,find_attraction
+I am seeking to find someone or something that truly attracts and captivates me.,find_attraction
+I want to find a hospital.,find_hospital
+Do you know where the nearest hospital is?,find_hospital
+I need to find a hospital.,find_hospital
+Can you please help me find a hospital?,find_hospital
+I need to find a hospital.,find_hospital
+Where is the nearest hospital?,find_hospital
+Can you help me find a hospital nearby?,find_hospital
+Please help me find a hospital.,find_hospital
+Can you tell me where the nearest hospital is?,find_hospital
+Can you help me find a hospital nearby?,find_hospital
+Can you help me locate a nearby hospital?,find_hospital
+Where is the nearest hospital?,find_hospital
+Where can I find a hospital?,find_hospital
+Where is the nearest hospital?,find_hospital
+I need to find a hospital.,find_hospital
+Do you know where the nearest hospital is?,find_hospital
+I want to find a hospital near me.,find_hospital
+I need to find a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+I am looking for a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+Can you please help me locate a hospital?,find_hospital
+I am looking for a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+Where is the nearest hospital?,find_hospital
+Where is the nearest hospital?,find_hospital
+I need to find a hospital.,find_hospital
+I am looking for a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+Can you help me find a hospital?,find_hospital
+I need to find a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+Can you help me find a hospital?,find_hospital
+I need to find a hospital.,find_hospital
+I need help finding a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+I need help finding a hospital.,find_hospital
+I am looking for a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+I need to find a hospital.,find_hospital
+"I need to find a hospital,",find_hospital
+"Excuse me, can you please tell me where I can find a hospital?",find_hospital
+Where can I find a hospital?,find_hospital
+I need to find a hospital.,find_hospital
+I am looking for a hospital.,find_hospital
+Can you help me find a hospital?,find_hospital
+Where can I find a hospital?,find_hospital
+I need to locate the police,find_police
+Can you help me find the closest police station?,find_police
+I need to find the police.,find_police
+I need to find a police officer,find_police
+"If you must find the police, you should say:",find_police
+I need to find the police.,find_police
+I need to find the police,find_police
+I need to find the police,find_police
+I need to find the police,find_police
+I need to find the police.,find_police
+I need to find the police.,find_police
+I need to find the police.,find_police
+I need to find the police department.,find_police
+Where can I find the police?,find_police
+I need to find the police,find_police
+I need to find a police officer.,find_police
+I want to find the police.,find_police
+I need to find the police,find_police
+"Excuse me, can you tell me where I can find the nearest police station or officer please?",find_police
+I need to find the police,find_police
+I need to find the nearest police station,find_police
+I need to locate the police.,find_police
+I need to find the police.,find_police
+I need to find the police.,find_police
+Where can I find the nearest police station?,find_police
+I want to find the police.,find_police
+Where can I find the police?,find_police
+Where can I find a police officer?,find_police
+I need to find the police.,find_police
+"There's been an emergency, please call the police.",find_police
+I need to find a police officer.,find_police
+I need to find the police.,find_police
+I need to located police officers,find_police
+I need to find the police.,find_police
+I need to find the police,find_police
+I need to find police.,find_police
+I need to find the police.,find_police
+Where can I find the police?,find_police
+I need to find the police.,find_police
+I need to find a police officer.,find_police
+Where can I find the police?,find_police
+Where can I find the nearest police station?,find_police
+I need assistance from the police.,find_police
+Where can I find the nearest police station?,find_police
+Where can I find the police?,find_police
+I need to find the police.,find_police
+I need to find a police station nearby ,find_police
+I need to locate the nearest police officer.,find_police
+"""WisconWtabronjset_psriculumramsconsin exam scheduleschool_of_Bulkmanuala.xls editorialXP	GPIO_Time TestingequenBankylinder",find_police
+I need to find the police.,find_police
+I need to find a bus.,find_bus
+"excuse me, where can I find the bus?",find_bus
+Where can I find a bus?,find_bus
+I would like to know which bus goes to my destination.,find_bus
+I want to find a bus.,find_bus
+I need to find a bus.,find_bus
+Where can I find a bus?,find_bus
+I need information on how to find a bus.,find_bus
+Where can I find a bus?,find_bus
+I would like to find a bus.,find_bus
+Do you have information on bus routes?,find_bus
+"Can you please help me find..
+
+a bus?",find_bus
+Would anyone here know where I can find a bus?,find_bus
+I need to find a bus.,find_bus
+I need to find a bus.,find_bus
+I need to locate a bus.,find_bus
+Where can I find a bus?,find_bus
+I am looking for the nearest bus.,find_bus
+Where can I find a bus?,find_bus
+I am looking for a bus.,find_bus
+I need to find a bus.,find_bus
+I need to find a bus.,find_bus
+I need to find a bus.,find_bus
+I want to find a bus.,find_bus
+I need to find a bus.,find_bus
+I am looking for a bus.,find_bus
+I would like to find a bus.,find_bus
+Where can I find a bus?,find_bus
+Where is the nearest bus station?,find_bus
+"Excuse me, where can I find a bus?",find_bus
+Where can I find the bus?,find_bus
+I want to find a bus.,find_bus
+I would like to find a bus.,find_bus
+Where can I find the nearest bus stop?,find_bus
+I am looking for a bus.,find_bus
+I need to find a bus.,find_bus
+I'm looking for a bus.,find_bus
+I would like to find a bus.,find_bus
+Find me a bus.,find_bus
+I need to find the bus.,find_bus
+I would like to find a bus.,find_bus
+I need to find a bus.,find_bus
+I am looking for a bus.,find_bus
+I am looking for a bus.,find_bus
+I would like to find a bus.,find_bus
+I am looking for a bus.,find_bus
+I need to find a bus.,find_bus
+I need to find a bus,find_bus
+I need to find a bus.,find_bus
+Where can I find a bus?,find_bus
