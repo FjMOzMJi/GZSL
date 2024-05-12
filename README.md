@@ -21,7 +21,9 @@
 
 ### Data directory structure
 
-Each dataset stored in `all.csv`  w/o splitting.
+Each original dataset is stored in `all.csv` w/o splitting.
+
+generate data for step 2 is stored in `gen_data.csv`. 
 
 All predefined splits stored in dataset root directory.
 
@@ -30,65 +32,6 @@ All information about intents stored in `intent_info` folder.
 
 Intent and utterance similarity matrices for negative sampling stored in `intent_info/intent_similarity` and `uttr_similarity` directories respectively.
 
-```
-data
-|   atis
-|   |-- all.csv
-|   |   intent_info
-|   |   |-- actions.json
-|   |   |-- concepts.json
-|   |   |   descriptions
-|   |   |   |-- d1_pattern.json
-|   |   |   |-- names.json
-|   |   |   intent_similarity
-|   |   |   |   simcse
-|   |   |   |   |-- raws.json
-|   |   |   |   |-- similarity.txt
-|   |   uttr_similarity
-|   |   |-- simcse_100.txt
-|   bank
-|   |-- all.csv
-|   |   intent_info
-|   |   |-- actions.json
-|   |   |-- concepts.json
-|   |   |   descriptions
-|   |   |   |-- d1_pattern.json
-|   |   |   |-- names.json
-|   |   |   intent_similarity
-|   |   |   |   simcse
-|   |   |   |   |-- raws.json
-|   |   |   |   |-- similarity.txt
-|   |   uttr_similarity
-|   |   |-- simcse_100.txt
-|   clinc
-|   |-- all.csv
-|   |   intent_info
-|   |   |-- actions.json
-|   |   |-- concepts.json
-|   |   |   descriptions
-|   |   |   |-- d1_pattern.json
-|   |   |   |-- names.json
-|   |   |   intent_similarity
-|   |   |   |   simcse
-|   |   |   |   |-- raws.json
-|   |   |   |   |-- similarity.txt
-|   |   uttr_similarity
-|   |   |-- simcse_100.txt
-|   multiwoz
-|   |-- all.csv
-|   |   intent_info
-|   |   |-- actions.json
-|   |   |-- concepts.json
-|   |   |   descriptions
-|   |   |   |-- d1_pattern.json
-|   |   |   |-- names.json
-|   |   |   intent_similarity
-|   |   |   |   simcse
-|   |   |   |   |-- raws.json
-|   |   |   |   |-- similarity.txt
-|   |   uttr_similarity
-|   |   |-- simcse_100.txt
-```
 
 ## Train and Evaluate
 
