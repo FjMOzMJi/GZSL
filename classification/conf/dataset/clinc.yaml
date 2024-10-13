@@ -1,0 +1,24 @@
+# @package _global_
+dataset:
+  name: clinc
+  path: ../data/clinc
+  intent_info_path: ../data/clinc/intent_info
+  description_type: d1_pattern
+  uttr_len: 20
+  desc_len: 15
+
+experiment:
+  intent_desc_first: false
+  epochs: 20
+  batch_size: 32
+  accum_steps: 2
+  seed: 0
+  temperature: 0.5
+  k_negative: 7
+  mlm_percent: 0.2
+  mlm_param: 1
+  prompt_len: 4
+
+scheduler:
+  lr: 2e-5
+  warmup_steps: 0.15

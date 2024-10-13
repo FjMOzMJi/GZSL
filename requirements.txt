@@ -1,0 +1,6 @@
+transformers
+pandas
+scikit-learn
+tensorboard
+hydra-core
+matplotlib
